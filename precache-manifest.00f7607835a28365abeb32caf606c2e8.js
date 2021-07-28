@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10c213f00ca94d5af23dc8e745cb8f28",
+    "revision": "b9b2c01c13603fa65254a9abca518870",
     "url": "/react-firegram/index.html"
   },
   {
-    "revision": "e3feaaf6d14730373756",
+    "revision": "57a5672e95885b69a8a4",
     "url": "/react-firegram/static/css/main.43e6d642.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-firegram/static/js/2.762f4019.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3feaaf6d14730373756",
-    "url": "/react-firegram/static/js/main.8d8d7e02.chunk.js"
+    "revision": "57a5672e95885b69a8a4",
+    "url": "/react-firegram/static/js/main.fca3576f.chunk.js"
   },
   {
     "revision": "6e41a62c830fae820770",
