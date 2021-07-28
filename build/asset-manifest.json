@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-firegram/static/css/main.43e6d642.chunk.css",
+    "main.js": "/react-firegram/static/js/main.fca3576f.chunk.js",
+    "main.js.map": "/react-firegram/static/js/main.fca3576f.chunk.js.map",
+    "runtime-main.js": "/react-firegram/static/js/runtime-main.c57774a6.js",
+    "runtime-main.js.map": "/react-firegram/static/js/runtime-main.c57774a6.js.map",
+    "static/js/2.762f4019.chunk.js": "/react-firegram/static/js/2.762f4019.chunk.js",
+    "static/js/2.762f4019.chunk.js.map": "/react-firegram/static/js/2.762f4019.chunk.js.map",
+    "index.html": "/react-firegram/index.html",
+    "precache-manifest.00f7607835a28365abeb32caf606c2e8.js": "/react-firegram/precache-manifest.00f7607835a28365abeb32caf606c2e8.js",
+    "service-worker.js": "/react-firegram/service-worker.js",
+    "static/css/main.43e6d642.chunk.css.map": "/react-firegram/static/css/main.43e6d642.chunk.css.map",
+    "static/js/2.762f4019.chunk.js.LICENSE.txt": "/react-firegram/static/js/2.762f4019.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c57774a6.js",
+    "static/js/2.762f4019.chunk.js",
+    "static/css/main.43e6d642.chunk.css",
+    "static/js/main.fca3576f.chunk.js"
+  ]
+}
